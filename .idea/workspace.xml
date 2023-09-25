@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d10c7738-492d-4b69-9c8b-30d98c58d3b7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Spam Email Identification.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec-data.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Written Digit Classification.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Written Digit Classification.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +44,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/namus/Documents/Jupyter Notebooks/practical-intro-to-jupyter&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/namus/Downloads/Compressed/Stanford-Project-Predicting-stock-prices-using-a-LSTM-Network-master&quot;
   }
 }</component>
   <component name="RecentsManager">
